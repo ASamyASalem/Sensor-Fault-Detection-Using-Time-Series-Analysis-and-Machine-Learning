@@ -1,5 +1,9 @@
 # Sensor-Fault-Detection-Using-Time-Series-Analysis-and-Machine-Learning
-A machine learning project for detecting abnormal sensor behavior and potential faults using time-series data. The project focuses on data preprocessing, time-series analysis, feature engineering, and analyzing sensor value changes and rates of change to identify patterns associated with abnormal conditions.
+A machine learning project for detecting abnormal sensor behavior and potential faults using time-series data. The project focuses on data preprocessing, 
+time-series analysis, feature engineering, and analyzing sensor value changes and rates of change to identify patterns associated with abnormal conditions.
+
+# The used Dataset from Kaggle: 
+https://www.kaggle.com/datasets/arashnic/sensor-fault-detection-data?utm_source=chatgpt.com
 
 # Technologies & Libraries
 The project is developed using Python and currently uses the following libraries:
